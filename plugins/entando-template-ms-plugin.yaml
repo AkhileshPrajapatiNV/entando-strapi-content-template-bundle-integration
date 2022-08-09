@@ -1,4 +1,4 @@
-image: shivinew/ent-content-template:1.0.0
+image: akhileshprajapatinv/ent-project-template:0.0.4
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
